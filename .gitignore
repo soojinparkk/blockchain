@@ -2,3 +2,6 @@ eth/
 *.ipynb_checkpoints
 node_modules/
 package*.*
+parksoojin.*
+*.PNG
+mid/
